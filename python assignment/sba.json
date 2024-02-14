@@ -1,0 +1,65 @@
+
+{
+    "company": "TechCorp Inc.",
+    "year_founded": 2005,
+    "location": {
+      "city": "Silicon Valley",
+      "state": "California",
+      "country": "USA"
+    },
+    "founders": [
+      {
+        "name": "John Smith",
+        "role": "CEO",
+        "age": 45
+      },
+      {
+        "name": "Emily Davis",
+        "role": "CTO",
+        "age": 40
+      }
+    ],
+    "employees": [
+      {
+        "id": 101,
+        "first_name": "Michael",
+        "last_name": "Johnson",
+        "position": "Software Engineer",
+        "salary": 90000,
+        "hire_date": "2020-03-15"
+      },
+      {
+        "id": 102,
+        "first_name": "Sarah",
+        "last_name": "Brown",
+        "position": "Data Scientist",
+        "salary": 95000,
+        "hire_date": "2019-08-22"
+      },
+      {
+        "id": 103,
+        "first_name": "David",
+        "last_name": "Lee",
+        "position": "Product Manager",
+        "salary": 110000,
+        "hire_date": "2018-05-10"
+      }
+    ],
+    "products": [
+      {
+        "product_id": "P001",
+        "product_name": "TechGadget X",
+        "category": "Electronics",
+        "price": 599.99,
+        "available": true
+      },
+      {
+        "product_id": "P002",
+        "product_name": "DataAnalyzer Pro",
+        "category": "Software",
+        "price": 149.99,
+        "available": true
+      }
+    ]
+  }
+  
